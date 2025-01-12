@@ -1,0 +1,496 @@
+Function (File:Line:Name),Calls,Time per Call (s),Total Time (s)
+<string>:1:<module>,1,0.000,0.000
+parallelism.py:21:with_parallelism,1,0.001,2.957
+parallelism.py:27:<listcomp>,1,0.000,0.000
+context.py:115:Pool,1,0.000,0.276
+<frozen importlib._bootstrap>:1117:__import__,82,0.000,0.048
+<frozen importlib._bootstrap>:1090:_calc___package__,51,0.000,0.000
+<frozen importlib._bootstrap>:404:parent,82,0.000,0.000
+<frozen importlib._bootstrap>:1038:_gcd_import,99,0.000,0.048
+<frozen importlib._bootstrap>:968:_sanity_check,99,0.000,0.000
+<frozen importlib._bootstrap>:902:_resolve_name,51,0.000,0.000
+<frozen importlib._bootstrap>:1022:_find_and_load,99,0.000,0.048
+<frozen importlib._bootstrap>:165:__init__,99,0.000,0.000
+<frozen importlib._bootstrap>:169:__enter__,99,0.000,0.002
+<frozen importlib._bootstrap>:179:_get_module_lock,159,0.000,0.001
+<frozen importlib._bootstrap>:71:__init__,41,0.000,0.000
+<frozen importlib._bootstrap>:100:acquire,159,0.000,0.001
+<frozen importlib._bootstrap>:987:_find_and_load_unlocked,39,0.000,0.047
+<frozen importlib._bootstrap>:921:_find_spec,39,0.000,0.013
+<frozen importlib._bootstrap>:893:__enter__,146,0.000,0.000
+__init__.py:89:find_spec,39,0.000,0.001
+<frozen importlib._bootstrap>:897:__exit__,146,0.000,0.000
+<frozen importlib._bootstrap>:746:find_spec,39,0.000,0.000
+<frozen importlib._bootstrap>:826:find_spec,34,0.000,0.000
+frozen importlib._bootstrap_external:1445:find_spec,34,0.000,0.011
+frozen importlib._bootstrap_external:1413:_get_spec,34,0.000,0.011
+frozen importlib._bootstrap_external:1370:_path_importer_cache,75,0.000,0.000
+frozen importlib._bootstrap_external:1550:find_spec,75,0.000,0.011
+frozen importlib._bootstrap_external:140:_path_stat,126,0.000,0.006
+frozen importlib._bootstrap_external:67:_relax_case,75,0.000,0.000
+frozen importlib._bootstrap_external:96:_path_join,297,0.000,0.004
+frozen importlib._bootstrap_external:119:<listcomp>,297,0.000,0.001
+<frozen importlib._bootstrap>:244:_verbose_message,330,0.000,0.000
+frozen importlib._bootstrap_external:159:_path_isfile,26,0.000,0.001
+frozen importlib._bootstrap_external:150:_path_is_mode_type,26,0.000,0.001
+frozen importlib._bootstrap_external:1545:_get_spec,26,0.000,0.000
+frozen importlib._bootstrap_external:1054:__init__,25,0.000,0.000
+frozen importlib._bootstrap_external:735:spec_from_file_location,26,0.000,0.000
+frozen importlib._bootstrap_external:172:_path_isabs,26,0.000,0.000
+<frozen importlib._bootstrap>:357:__init__,39,0.000,0.000
+<frozen importlib._bootstrap>:664:_load_unlocked,31,0.000,0.046
+<frozen importlib._bootstrap>:564:module_from_spec,31,0.000,0.002
+frozen importlib._bootstrap_external:888:create_module,25,0.000,0.000
+<frozen importlib._bootstrap>:48:_new_module,25,0.000,0.000
+<frozen importlib._bootstrap>:492:_init_module_attrs,31,0.000,0.002
+<frozen importlib._bootstrap>:412:has_location,31,0.000,0.000
+<frozen importlib._bootstrap>:391:cached,51,0.000,0.001
+frozen importlib._bootstrap_external:524:_get_cached,26,0.000,0.001
+frozen importlib._bootstrap_external:394:cache_from_source,50,0.000,0.001
+frozen importlib._bootstrap_external:132:_path_split,50,0.000,0.000
+frozen importlib._bootstrap_external:134:<genexpr>,150,0.000,0.000
+frozen importlib._bootstrap_external:891:exec_module,25,0.000,0.046
+frozen importlib._bootstrap_external:964:get_code,25,0.000,0.023
+frozen importlib._bootstrap_external:556:_check_name_wrapper,25,0.000,0.000
+frozen importlib._bootstrap_external:1079:get_filename,25,0.000,0.000
+frozen importlib._bootstrap_external:1103:path_stats,25,0.000,0.001
+frozen importlib._bootstrap_external:1084:get_data,25,0.000,0.016
+frozen importlib._bootstrap_external:599:_classify_pyc,25,0.000,0.000
+frozen importlib._bootstrap_external:84:_unpack_uint32,75,0.000,0.000
+frozen importlib._bootstrap_external:632:_validate_timestamp_pyc,25,0.000,0.000
+frozen importlib._bootstrap_external:684:_compile_bytecode,25,0.000,0.004
+<frozen importlib._bootstrap>:233:_call_with_frames_removed,39,0.000,0.043
+pool.py:1:<module>,1,0.000,0.038
+__init__.py:96:<lambda>,30,0.000,0.000
+queue.py:1:<module>,1,0.000,0.004
+<frozen importlib._bootstrap>:1053:_handle_fromlist,17,0.000,0.012
+heapq.py:1:<module>,1,0.000,0.002
+heapq.py:315:_MergeNode,1,0.000,0.000
+<frozen importlib._bootstrap>:173:__exit__,99,0.000,0.000
+<frozen importlib._bootstrap>:125:release,159,0.000,0.000
+queue.py:19:Empty,1,0.000,0.000
+queue.py:23:Full,1,0.000,0.000
+queue.py:28:Queue,1,0.000,0.000
+queue.py:223:PriorityQueue,1,0.000,0.000
+queue.py:242:LifoQueue,1,0.000,0.000
+queue.py:258:_PySimpleQueue,1,0.000,0.000
+<frozen importlib._bootstrap>:216:_lock_unlock_module,60,0.000,0.000
+util.py:1:<module>,2,0.000,0.007
+<frozen importlib._bootstrap>:421:spec_from_loader,5,0.000,0.000
+<frozen importlib._bootstrap>:254:_requires_builtin_wrapper,5,0.000,0.000
+<frozen importlib._bootstrap>:795:is_package,5,0.000,0.000
+<frozen importlib._bootstrap>:770:create_module,5,0.000,0.000
+<frozen importlib._bootstrap>:778:exec_module,5,0.000,0.000
+subprocess.py:1:<module>,1,0.000,0.004
+msvcrt.py:1:<module>,1,0.000,0.000
+subprocess.py:101:SubprocessError,1,0.000,0.000
+subprocess.py:104:CalledProcessError,1,0.000,0.000
+subprocess.py:141:TimeoutExpired,1,0.000,0.000
+subprocess.py:170:STARTUPINFO,1,0.000,0.000
+subprocess.py:193:Handle,1,0.000,0.000
+subprocess.py:425:CompletedProcess,1,0.000,0.000
+subprocess.py:648:_use_posix_spawn,1,0.000,0.000
+subprocess.py:702:Popen,1,0.000,0.000
+util.py:108:_platform_supports_abstract_sockets,1,0.000,0.000
+weakref.py:125:__init__,1,0.000,0.000
+weakref.py:316:update,1,0.000,0.000
+util.py:182:Finalize,1,0.000,0.000
+util.py:368:ForkAwareThreadLock,1,0.000,0.000
+util.py:385:ForkAwareLocal,1,0.000,0.000
+connection.py:1:<module>,1,0.000,0.023
+tempfile.py:1:<module>,1,0.000,0.020
+shutil.py:1:<module>,1,0.000,0.015
+fnmatch.py:1:<module>,1,0.000,0.001
+posixpath.py:1:<module>,1,0.000,0.000
+functools.py:491:lru_cache,1,0.000,0.000
+functools.py:530:decorating_function,1,0.000,0.000
+functools.py:537:_lru_cache_wrapper,1,0.000,0.000
+functools.py:39:update_wrapper,2,0.000,0.000
+bz2.py:1:<module>,1,0.000,0.002
+_compression.py:1:<module>,1,0.000,0.000
+_compression.py:9:BaseStream,1,0.000,0.000
+abc.py:105:__new__,6,0.000,0.000
+_compression.py:33:DecompressReader,1,0.000,0.000
+bz2.py:27:BZ2File,1,0.000,0.000
+lzma.py:1:<module>,1,0.000,0.005
+_lzma.py:1:<module>,1,0.000,0.002
+frozen importlib._bootstrap_external:1177:__init__,1,0.000,0.000
+frozen importlib._bootstrap_external:1188:create_module,1,0.000,0.001
+frozen importlib._bootstrap_external:1196:exec_module,1,0.000,0.000
+weakref.py:394:__init__,1,0.000,0.000
+_lzma.py:71:add_constant,24,0.000,0.000
+_lzma.py:105:LZMAError,1,0.000,0.000
+functools.py:289:__new__,3,0.000,0.000
+_lzma.py:292:Index,1,0.000,0.000
+_lzma.py:347:_StructToPy,1,0.000,0.000
+_lzma.py:357:IndexStreamData,1,0.000,0.000
+_lzma.py:361:IndexBlockData,1,0.000,0.000
+_lzma.py:366:StreamFlags,1,0.000,0.000
+_lzma.py:389:Allocator,1,0.000,0.000
+_lzma.py:408:LZMADecompressor,1,0.000,0.000
+_lzma.py:681:LZMACompressor,1,0.000,0.000
+lzma.py:38:LZMAFile,1,0.000,0.000
+shutil.py:59:Error,1,0.000,0.000
+shutil.py:62:SameFileError,1,0.000,0.000
+shutil.py:65:SpecialFileError,1,0.000,0.000
+shutil.py:69:ExecError,1,0.000,0.000
+shutil.py:72:ReadError,1,0.000,0.000
+shutil.py:75:RegistryError,1,0.000,0.000
+shutil.py:79:_GiveupOnFastCopy,1,0.000,0.000
+__init__.py:333:namedtuple,1,0.000,0.000
+__init__.py:407:<genexpr>,4,0.000,0.000
+__init__.py:437:<genexpr>,4,0.000,0.000
+__init__.py:442:<genexpr>,4,0.000,0.000
+__init__.py:331:<lambda>,3,0.000,0.000
+random.py:1:<module>,1,0.000,0.003
+bisect.py:1:<module>,1,0.000,0.001
+_sha512.py:1:<module>,1,0.000,0.000
+_sha512.py:234:Immutable,1,0.000,0.000
+_sha512.py:245:sha512,1,0.000,0.000
+_sha512.py:235:__init__,2,0.000,0.000
+_sha512.py:269:sha384,1,0.000,0.000
+random.py:103:Random,1,0.000,0.000
+random.py:813:SystemRandom,1,0.000,0.000
+random.py:219:__init_subclass__,1,0.000,0.000
+random.py:119:__init__,3,0.000,0.000
+random.py:128:seed,3,0.000,0.000
+tempfile.py:132:_RandomNameSequence,1,0.000,0.000
+tempfile.py:432:_TemporaryFileCloser,1,0.000,0.000
+tempfile.py:475:_TemporaryFileWrapper,1,0.000,0.000
+tempfile.py:677:SpooledTemporaryFile,1,0.000,0.000
+tempfile.py:821:TemporaryDirectory,1,0.000,0.000
+connection.py:114:_ConnectionBase,1,0.000,0.000
+connection.py:268:PipeConnection,1,0.000,0.000
+connection.py:348:Connection,1,0.000,0.000
+connection.py:432:Listener,1,0.000,0.000
+connection.py:579:SocketListener,1,0.000,0.000
+connection.py:639:PipeListener,1,0.000,0.000
+connection.py:765:ConnectionWrapper,1,0.000,0.000
+connection.py:787:XmlListener,1,0.000,0.000
+reduction.py:43:register,2,0.000,0.000
+pool.py:57:RemoteTraceback,1,0.000,0.000
+pool.py:63:ExceptionWithTraceback,1,0.000,0.000
+pool.py:80:MaybeEncodingError,1,0.000,0.000
+pool.py:150:_PoolCache,1,0.000,0.000
+pool.py:173:Pool,1,0.000,0.000
+pool.py:745:ApplyResult,1,0.000,0.000
+pool.py:794:MapResult,1,0.000,0.000
+pool.py:837:IMapIterator,1,0.000,0.000
+pool.py:906:IMapUnorderedIterator,1,0.000,0.000
+pool.py:921:ThreadPool,1,0.000,0.000
+context.py:238:get_context,1,0.000,0.000
+pool.py:183:__init__,1,0.000,0.237
+pool.py:345:_setup_queues,1,0.000,0.005
+context.py:110:SimpleQueue,3,0.000,0.005
+queues.py:1:<module>,1,0.000,0.000
+queues.py:35:Queue,1,0.000,0.000
+queues.py:294:JoinableQueue,1,0.000,0.000
+queues.py:337:SimpleQueue,1,0.000,0.000
+context.py:187:get_context,6,0.000,0.000
+queues.py:339:__init__,3,0.000,0.004
+connection.py:535:Pipe,3,0.000,0.002
+connection.py:69:arbitrary_address,3,0.000,0.001
+tempfile.py:400:mktemp,3,0.000,0.001
+tempfile.py:229:_get_candidate_names,3,0.000,0.000
+tempfile.py:153:__next__,6,0.000,0.000
+tempfile.py:142:rng,6,0.000,0.000
+random.py:506:choices,6,0.000,0.000
+random.py:519:<listcomp>,6,0.000,0.000
+ntpath.py:103:join,3,0.000,0.001
+ntpath.py:150:splitdrive,14,0.000,0.001
+tempfile.py:76:_exists,3,0.000,0.000
+_winapi.py:69:CreateNamedPipe,3,0.000,0.000
+_winapi.py:56:_handle2int,92,0.000,0.000
+_winapi.py:75:CreateFile,3,0.000,0.000
+_winapi.py:81:SetNamedPipeHandleState,3,0.000,0.000
+_winapi.py:53:_int2handle,128,0.000,0.000
+_winapi.py:228:ConnectNamedPipe,3,0.000,0.000
+_winapi.py:96:__init__,6,0.000,0.000
+_winapi.py:127:GetOverlappedResult,6,0.000,0.000
+connection.py:117:__init__,6,0.000,0.000
+context.py:65:Lock,3,0.000,0.002
+synchronize.py:1:<module>,1,0.000,0.000
+synchronize.py:46:SemLock,1,0.000,0.000
+synchronize.py:123:Semaphore,1,0.000,0.000
+synchronize.py:142:BoundedSemaphore,1,0.000,0.000
+synchronize.py:159:Lock,1,0.000,0.000
+synchronize.py:184:RLock,1,0.000,0.000
+synchronize.py:210:Condition,1,0.000,0.000
+synchronize.py:321:Event,1,0.000,0.000
+synchronize.py:360:Barrier,1,0.000,0.000
+synchronize.py:161:__init__,3,0.000,0.000
+synchronize.py:50:__init__,3,0.000,0.000
+context.py:197:get_start_method,3,0.000,0.000
+synchronize.py:114:_make_name,3,0.000,0.000
+process.py:37:current_process,11,0.000,0.000
+util.py:48:debug,17,0.000,0.000
+synchronize.py:90:_make_methods,3,0.000,0.000
+queue.py:268:__init__,1,0.000,0.000
+threading.py:422:__init__,1,0.000,0.000
+threading.py:236:__init__,5,0.000,0.000
+pool.py:157:__init__,1,0.000,0.000
+pool.py:305:_repopulate_pool,1,0.000,0.072
+pool.py:314:_repopulate_pool_static,1,0.000,0.072
+pool.py:179:Process,4,0.000,0.000
+process.py:80:__init__,4,0.000,0.000
+process.py:189:name,8,0.000,0.000
+process.py:94:<genexpr>,8,0.000,0.000
+_weakrefset.py:93:add,7,0.000,0.000
+process.py:193:name,4,0.000,0.000
+process.py:205:daemon,4,0.000,0.000
+process.py:110:start,4,0.000,0.072
+process.py:99:_check_closed,17,0.000,0.000
+process.py:61:_cleanup,4,0.000,0.000
+context.py:334:_Popen,4,0.000,0.072
+popen_spawn_win32.py:1:<module>,1,0.000,0.005
+spawn.py:1:<module>,1,0.000,0.004
+runpy.py:1:<module>,1,0.000,0.002
+_abc.py:1:<module>,1,0.000,0.000
+_abc.py:7:Loader,1,0.000,0.000
+contextlib.py:252:contextmanager,1,0.000,0.000
+functools.py:69:wraps,1,0.000,0.000
+util.py:222:_LazyModule,1,0.000,0.000
+util.py:268:LazyLoader,1,0.000,0.000
+runpy.py:24:_TempModule,1,0.000,0.000
+runpy.py:47:_ModifiedArgv0,1,0.000,0.000
+runpy.py:167:_Error,1,0.000,0.000
+popen_spawn_win32.py:40:Popen,1,0.000,0.000
+popen_spawn_win32.py:46:__init__,4,0.000,0.066
+spawn.py:150:get_preparation_data,4,0.000,0.001
+spawn.py:132:_check_not_importing_main,4,0.000,0.000
+process.py:213:authkey,4,0.000,0.000
+context.py:254:get_start_method,4,0.000,0.000
+ntpath.py:87:isabs,4,0.000,0.000
+ntpath.py:35:_get_bothseps,4,0.000,0.000
+ntpath.py:489:normpath,4,0.000,0.001
+_winapi.py:59:CreatePipe,4,0.000,0.000
+msvcrt.py:33:open_osfhandle,4,0.000,0.000
+spawn.py:78:get_command_line,4,0.000,0.000
+spawn.py:87:<genexpr>,12,0.000,0.000
+subprocess.py:278:_args_from_interpreter_flags,4,0.000,0.000
+subprocess.py:268:_optim_args_from_interpreter_flags,4,0.000,0.000
+popen_spawn_win32.py:59:<genexpr>,20,0.000,0.000
+spawn.py:45:get_executable,4,0.000,0.000
+_winapi.py:276:CreateProcess,4,0.014,0.055
+_winapi.py:268:_Z,12,0.000,0.000
+_winapi.py:416:CloseHandle,20,0.000,0.000
+util.py:186:__init__,5,0.000,0.000
+context.py:369:set_spawning_popen,8,0.000,0.000
+reduction.py:58:dump,8,0.000,0.009
+reduction.py:38:__init__,11,0.000,0.000
+pickle.py:422:__init__,11,0.000,0.000
+pickle.py:217:__init__,11,0.000,0.000
+pickle.py:489:dump,11,0.000,0.009
+pickle.py:253:write,1221,0.000,0.001
+pickle.py:221:start_framing,11,0.000,0.000
+pickle.py:548:save,671,0.000,0.008
+pickle.py:229:commit_frame,682,0.000,0.001
+pickle.py:618:persistent_id,671,0.000,0.000
+pickle.py:978:save_dict,32,0.000,0.008
+pickle.py:504:memoize,404,0.000,0.001
+pickle.py:527:put,404,0.000,0.000
+pickle.py:991:_batch_setitems,32,0.000,0.008
+pickle.py:864:save_str,216,0.000,0.001
+pickle.py:757:save_bool,48,0.000,0.000
+process.py:350:__reduce__,8,0.000,0.001
+context.py:366:get_spawning_popen,40,0.000,0.000
+pickle.py:634:save_reduce,60,0.000,0.006
+pickle.py:1135:save_type,24,0.000,0.001
+pickle.py:1069:save_global,32,0.000,0.001
+pickle.py:348:whichmodule,32,0.000,0.000
+pickle.py:335:_getattribute,32,0.000,0.000
+pickle.py:887:save_tuple,88,0.000,0.004
+pickle.py:802:save_bytes,8,0.000,0.000
+pickle.py:938:save_list,8,0.000,0.000
+pickle.py:951:_batch_appends,8,0.000,0.000
+pickle.py:224:end_framing,11,0.000,0.000
+copyreg.py:113:_slotnames,2,0.000,0.000
+pickle.py:764:save_long,80,0.000,0.000
+pickle.py:753:save_none,31,0.000,0.000
+queues.py:355:__getstate__,8,0.000,0.000
+context.py:372:assert_spawning,16,0.000,0.000
+connection.py:956:reduce_pipe_connection,16,0.000,0.001
+connection.py:158:readable,32,0.000,0.000
+connection.py:163:writable,32,0.000,0.000
+connection.py:168:fileno,16,0.000,0.000
+connection.py:134:_check_closed,19,0.000,0.000
+reduction.py:106:__init__,16,0.000,0.000
+_winapi.py:314:OpenProcess,16,0.000,0.000
+_winapi.py:250:GetCurrentProcess,24,0.000,0.000
+_winapi.py:253:DuplicateHandle,24,0.000,0.000
+pickle.py:539:get,68,0.000,0.000
+synchronize.py:100:__getstate__,8,0.000,0.000
+popen_spawn_win32.py:99:duplicate_for_child,8,0.000,0.000
+reduction.py:71:duplicate,8,0.000,0.000
+popen_spawn_win32.py:119:poll,14,0.000,0.000
+popen_spawn_win32.py:103:wait,17,0.000,0.017
+_winapi.py:352:WaitForSingleObject,14,0.001,0.017
+pool.py:279:_get_sentinels,1,0.000,0.000
+threading.py:827:__init__,3,0.000,0.000
+threading.py:782:_newname,3,0.000,0.000
+threading.py:1430:current_thread,9,0.000,0.000
+threading.py:1183:daemon,6,0.000,0.000
+threading.py:545:__init__,4,0.000,0.000
+threading.py:1301:_make_invoke_excepthook,3,0.000,0.000
+threading.py:1198:daemon,3,0.000,0.000
+threading.py:553:is_set,12,0.000,0.000
+threading.py:916:start,3,0.000,0.159
+threading.py:589:wait,4,0.000,2.682
+threading.py:264:__enter__,5,0.000,0.000
+threading.py:288:wait,4,0.000,2.682
+threading.py:279:_is_owned,5,0.000,0.000
+threading.py:273:_release_save,4,0.000,0.000
+threading.py:276:_acquire_restore,4,0.000,0.000
+threading.py:267:__exit__,5,0.000,0.000
+pool.py:734:__enter__,1,0.000,0.000
+pool.py:351:_check_running,2,0.000,0.000
+pool.py:362:map,1,0.000,2.650
+pool.py:471:_map_async,1,0.000,0.000
+pool.py:796:__init__,1,0.000,0.000
+pool.py:747:__init__,1,0.000,0.000
+queue.py:272:put,1,0.000,0.000
+threading.py:475:release,1,0.000,0.000
+threading.py:359:notify,1,0.000,0.000
+pool.py:767:get,1,0.000,2.650
+pool.py:764:wait,1,0.000,2.650
+pool.py:756:ready,1,0.000,0.000
+pool.py:738:__exit__,1,0.000,0.021
+pool.py:654:terminate,1,0.000,0.021
+util.py:205:__call__,1,0.000,0.021
+util.py:44:sub_debug,1,0.000,0.000
+pool.py:680:_terminate_pool,1,0.000,0.021
+queues.py:369:put,3,0.000,0.000
+reduction.py:48:dumps,3,0.000,0.000
+connection.py:181:send_bytes,3,0.000,0.000
+connection.py:142:_check_writable,3,0.000,0.000
+connection.py:279:_send_bytes,3,0.000,0.000
+_winapi.py:201:WriteFile,3,0.000,0.000
+pool.py:671:_help_stuff_finish,1,0.000,0.004
+threading.py:1169:is_alive,2,0.000,0.000
+threading.py:1102:_wait_for_tstate_lock,5,0.000,0.000
+threading.py:1028:_stop,3,0.000,0.000
+threading.py:1064:join,3,0.000,0.000
+process.py:224:exitcode,4,0.000,0.000
+process.py:128:terminate,3,0.000,0.013
+popen_spawn_win32.py:122:terminate,3,0.000,0.013
+_winapi.py:398:TerminateProcess,3,0.000,0.000
+_winapi.py:33:raise_WinError,2,0.000,0.000
+_winapi.py:387:GetExitCodeProcess,4,0.000,0.000
+process.py:153:is_alive,4,0.000,0.000
+process.py:234:ident,1,0.000,0.000
+process.py:142:join,1,0.000,0.004
+parallelism.py:39:<listcomp>,1,0.009,0.009
+utf_8.py:19:encode,4,0.000,0.000
+~:0:<built-in function exec>,27,0.000,2.957
+~:0:<built-in function time.time>,2,0.000,0.000
+~:0:<method 'get' of 'dict' objects>,1572,0.000,0.000
+~:0:<method 'rpartition' of 'str' objects>,287,0.000,0.000
+~:0:<built-in function isinstance>,525,0.000,0.000
+~:0:<method 'rsplit' of 'str' objects>,51,0.000,0.000
+~:0:<built-in function len>,3535,0.000,0.001
+~:0:<method 'format' of 'str' objects>,75,0.000,0.000
+~:0:<built-in function _imp.acquire_lock>,305,0.000,0.000
+~:0:<built-in function _thread.allocate_lock>,92,0.000,0.000
+~:0:<built-in function _imp.release_lock>,305,0.000,0.000
+~:0:<built-in function _thread.get_ident>,327,0.000,0.000
+~:0:<method '__exit__' of '_thread.lock' objects>,323,0.000,0.000
+~:0:<method 'startswith' of 'str' objects>,694,0.000,0.000
+~:0:<built-in function _imp.is_frozen>,34,0.000,0.000
+~:0:<built-in function hasattr>,289,0.000,0.000
+~:0:<built-in function nt.stat>,126,0.000,0.006
+~:0:<method 'endswith' of 'str' objects>,1046,0.000,0.000
+~:0:<method 'rstrip' of 'str' objects>,941,0.000,0.000
+~:0:<method 'append' of 'list' objects>,352,0.000,0.000
+~:0:<method 'join' of 'str' objects>,373,0.000,0.000
+~:0:<built-in function nt.fspath>,101,0.000,0.000
+~:0:<built-in function nt._path_splitroot>,26,0.000,0.000
+~:0:<method 'replace' of 'str' objects>,50,0.000,0.000
+~:0:<built-in function getattr>,1199,0.000,0.000
+~:0:<built-in function max>,63,0.000,0.000
+~:0:<method 'rfind' of 'str' objects>,100,0.000,0.000
+~:0:<built-in function _io.open_code>,25,0.001,0.013
+~:0:<method 'read' of '_io.BufferedReader' objects>,25,0.000,0.002
+~:0:<method '__exit__' of '_io._IOBase' objects>,4,0.000,0.000
+~:0:<method 'from_bytes' of 'type' objects>,75,0.000,0.000
+~:0:<built-in function marshal.loads>,25,0.000,0.003
+~:0:<built-in function _imp._fix_co_filename>,25,0.000,0.000
+~:0:<built-in function locals>,30,0.000,0.000
+~:0:<built-in function _imp.is_builtin>,30,0.000,0.000
+~:0:<built-in function __build_class__>,83,0.000,0.002
+~:0:<method 'pop' of 'dict' objects>,31,0.000,0.000
+~:0:<method 'partition' of 'str' objects>,15,0.000,0.000
+~:0:<built-in function _imp.create_builtin>,5,0.000,0.000
+~:0:<built-in function _imp.exec_builtin>,5,0.000,0.000
+~:0:<built-in function _rawffi.get_libc>,1,0.000,0.000
+~:0:<method 'dlopen' of '_cffi_backend.FFI' objects>,2,0.000,0.000
+~:0:<built-in function __pypy__.builtinify>,12,0.000,0.000
+~:0:<method 'extend' of 'list' objects>,1,0.000,0.000
+~:0:<method 'setter' of 'property' objects>,5,0.000,0.000
+~:0:<method 'items' of 'dict' objects>,42,0.000,0.000
+~:0:<built-in function setattr>,19,0.000,0.000
+~:0:<built-in function __pypy__.hidden_applevel>,1,0.000,0.000
+~:0:<method 'update' of 'dict' objects>,17,0.000,0.000
+~:0:<method '__new__' of 'type' objects>,3,0.000,0.000
+~:0:<built-in function _imp.create_dynamic>,1,0.001,0.001
+~:0:<built-in function _imp.exec_dynamic>,1,0.000,0.000
+~:0:<built-in function globals>,24,0.000,0.000
+~:0:<built-in function callable>,63,0.000,0.000
+~:0:<method 'split' of 'str' objects>,37,0.000,0.000
+~:0:<built-in function sys.intern>,4,0.000,0.000
+~:0:<method 'isidentifier' of 'str' objects>,4,0.000,0.000
+~:0:<method '__contains__' of 'frozenset' objects>,4,0.000,0.000
+~:0:<method 'add' of 'set' objects>,14,0.000,0.000
+~:0:<built-in function __pypy__.newdict>,1,0.000,0.000
+~:0:<built-in function eval>,1,0.000,0.000
+~:0:<built-in function sys._getframe>,1,0.000,0.000
+~:0:<method 'keys' of 'dict' objects>,2,0.000,0.000
+~:0:<method '__setattr__' of 'Immutable' objects>,2,0.000,0.000
+~:0:<method '__init__' of 'Immutable' objects>,2,0.000,0.000
+~:0:<built-in function math.exp>,1,0.000,0.000
+~:0:<built-in function math.sqrt>,1,0.000,0.000
+~:0:<built-in function math.log>,2,0.000,0.000
+~:0:<method 'seed' of 'Random' objects>,3,0.000,0.000
+~:0:<built-in function nt.getpid>,48,0.000,0.000
+~:0:<built-in function next>,19,0.000,0.000
+~:0:<method 'acquire_lock' of '_thread.lock' objects>,21,0.128,2.682
+~:0:<method 'release_lock' of '_thread.lock' objects>,9,0.000,0.000
+~:0:<method 'random' of 'Random' objects>,48,0.000,0.000
+~:0:<built-in function math.floor>,48,0.000,0.000
+~:0:<method 'find' of 'str' objects>,6,0.000,0.000
+~:0:<built-in function nt.lstat>,3,0.000,0.000
+~:0:<method 'cast' of '_cffi_backend.FFI' objects>,223,0.000,0.000
+~:0:<method 'new' of '_cffi_backend.FFI' objects>,58,0.000,0.000
+~:0:<method '__index__' of 'int' objects>,6,0.000,0.000
+~:0:<method '__init__' of '_PoolCache' objects>,1,0.000,0.000
+~:0:<method 'copy' of 'dict' objects>,15,0.000,0.000
+~:0:<method 'lower' of 'str' objects>,2,0.000,0.000
+~:0:<method 'copy' of 'list' objects>,4,0.000,0.000
+~:0:<built-in function nt.getcwd>,4,0.000,0.000
+~:0:<method 'lstrip' of 'str' objects>,4,0.000,0.000
+~:0:<built-in function _io.open>,4,0.000,0.000
+~:0:<built-in function _struct.pack>,391,0.000,0.000
+~:0:<method 'write' of '_io.BufferedWriter' objects>,24,0.000,0.000
+~:0:<built-in function id>,1587,0.000,0.000
+~:0:<method 'append' of 'BytesBuilder' objects>,1210,0.000,0.000
+~:0:<built-in function iter>,40,0.000,0.000
+~:0:<method 'encode' of 'str' objects>,216,0.000,0.000
+~:0:<built-in function issubclass>,44,0.000,0.000
+~:0:<method '__reduce_ex__' of 'object' objects>,8,0.000,0.000
+~:0:<method '__import__' of 'str' objects>,32,0.000,0.000
+~:0:<method 'build' of 'BytesBuilder' objects>,11,0.000,0.000
+~:0:<method 'get' of 'mappingproxy' objects>,2,0.000,0.000
+~:0:<method '__next__' of 'itertools.count' objects>,3,0.000,0.000
+~:0:<method '__exit__' of '_thread.RLock' objects>,3,0.000,0.000
+~:0:<built-in function _thread.start_new_thread>,3,0.042,0.127
+~:0:<method '__enter__' of '_thread.lock' objects>,5,0.000,0.000
+~:0:<method 'append' of 'collections.deque' objects>,5,0.000,0.000
+~:0:<built-in function divmod>,1,0.000,0.000
+~:0:<method 'remove' of 'collections.deque' objects>,1,0.000,0.000
+~:0:<method 'write' of '_io.BytesIO' objects>,6,0.000,0.000
+~:0:<method 'getbuffer' of '_io.BytesIO' objects>,3,0.000,0.000
+~:0:<method 'acquire' of 'SemLock' objects>,1,0.004,0.004
+~:0:<method 'locked_lock' of '_thread.lock' objects>,3,0.000,0.000
+~:0:<method 'getwinerror' of '_cffi_backend.FFI' objects>,2,0.000,0.000
+~:0:<method 'discard' of 'set' objects>,4,0.000,0.000
+~:0:<built-in function _codecs.utf_8_encode>,4,0.000,0.000
+~:0:<method 'disable' of '_lsprof.Profiler' objects>,1,0.000,0.000

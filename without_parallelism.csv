@@ -1,0 +1,12 @@
+Function (File:Line:Name),Calls,Time per Call (s),Total Time (s)
+<string>:1:<module>,1,0.000,2.668
+noparallelism.py:19:without_parallelism,1,0.001,2.668
+noparallelism.py:15:find_primes_in_range,1,0.000,2.667
+noparallelism.py:17:<listcomp>,1,0.156,2.667
+noparallelism.py:6:is_prime,4900000,0.000,2.511
+utf_8.py:19:encode,4,0.000,0.000
+~:0:<built-in function exec>,1,0.000,2.668
+~:0:<built-in function time.time>,2,0.000,0.000
+~:0:<built-in function len>,1,0.000,0.000
+~:0:<built-in function _codecs.utf_8_encode>,4,0.000,0.000
+~:0:<method 'disable' of '_lsprof.Profiler' objects>,1,0.000,0.000

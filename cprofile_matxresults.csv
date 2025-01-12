@@ -1,0 +1,18 @@
+Function,Number of Calls,Total Time (s),Per Call Time (s),Cumulative Time (s)
+"('C:\\Users\\Rosemary\\Desktop\\python big data\\matxcprofile.py', 23, 'benchmark_matrix_multiply')",1,0.000,0.000,0.061
+"('C:\\Users\\Rosemary\\Desktop\\python big data\\matxcprofile.py', 8, 'generate_matrix')",2,0.000,0.000,0.028
+"('C:\\Users\\Rosemary\\Desktop\\python big data\\matxcprofile.py', 9, '<listcomp>')",400,0.007,0.000,0.028
+"('C:\\Users\\Rosemary\\Downloads\\pypy3.10-v7.3.17-win64\\pypy3\\Lib\\random.py', 366, 'randint')",80000,0.002,0.000,0.021
+"('C:\\Users\\Rosemary\\Downloads\\pypy3.10-v7.3.17-win64\\pypy3\\Lib\\random.py', 292, 'randrange')",80000,0.005,0.000,0.019
+"('C:\\Users\\Rosemary\\Downloads\\pypy3.10-v7.3.17-win64\\pypy3\\Lib\\random.py', 239, '_randbelow_with_getrandbits')",80000,0.009,0.000,0.012
+"('C:\\Users\\Rosemary\\Desktop\\python big data\\matxcprofile.py', 12, 'matrix_multiply')",1,0.030,0.030,0.032
+"('C:\\Users\\Rosemary\\Desktop\\python big data\\matxcprofile.py', 15, '<listcomp>')",200,0.001,0.000,0.001
+"('C:\\Users\\Rosemary\\Downloads\\pypy3.10-v7.3.17-win64\\pypy3\\Lib\\encodings\\utf_8.py', 19, 'encode')",2,0.000,0.000,0.000
+"('~', 0, '<built-in function _operator.index>')",240000,0.002,0.000,0.002
+"('~', 0, ""<method 'bit_length' of 'int' objects>"")",80000,0.001,0.000,0.001
+"('~', 0, ""<method 'getrandbits' of 'Random' objects>"")",101203,0.002,0.000,0.002
+"('~', 0, '<built-in function time.time>')",2,0.000,0.000,0.000
+"('~', 0, '<built-in function len>')",40404,0.001,0.000,0.001
+"('~', 0, ""<method 'format' of 'str' objects>"")",1,0.000,0.000,0.000
+"('~', 0, '<built-in function _codecs.utf_8_encode>')",2,0.000,0.000,0.000
+"('~', 0, ""<method 'disable' of '_lsprof.Profiler' objects>"")",1,0.000,0.000,0.000
